@@ -71,7 +71,7 @@ namespace Planner
                 building.PrintDetails();
             }
 
-            Building HouseHome = new Building("1234 Where the Heart Is Rd");
+            Building HouseHome = new Building("4001 Anderson Rd");
             Gotham.AddBuilding(HouseHome);
 
             foreach (Building building in buildings)
