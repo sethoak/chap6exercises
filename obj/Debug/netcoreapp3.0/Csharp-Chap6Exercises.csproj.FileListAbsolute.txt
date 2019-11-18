@@ -1,3 +1,11 @@
 c:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\obj\Debug\netcoreapp3.0\Csharp-Chap6Exercises.csprojAssemblyReference.cache
 c:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\obj\Debug\netcoreapp3.0\Csharp-Chap6Exercises.AssemblyInfoInputs.cache
 c:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\obj\Debug\netcoreapp3.0\Csharp-Chap6Exercises.AssemblyInfo.cs
+C:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\bin\Debug\netcoreapp3.0\Csharp-Chap6Exercises.exe
+C:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\bin\Debug\netcoreapp3.0\Csharp-Chap6Exercises.deps.json
+C:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\bin\Debug\netcoreapp3.0\Csharp-Chap6Exercises.runtimeconfig.json
+C:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\bin\Debug\netcoreapp3.0\Csharp-Chap6Exercises.runtimeconfig.dev.json
+C:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\bin\Debug\netcoreapp3.0\Csharp-Chap6Exercises.dll
+C:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\bin\Debug\netcoreapp3.0\Csharp-Chap6Exercises.pdb
+C:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\obj\Debug\netcoreapp3.0\Csharp-Chap6Exercises.dll
+C:\Users\Oakley\desktop\workspace\Csharp-Chap6Exercises\obj\Debug\netcoreapp3.0\Csharp-Chap6Exercises.pdb
